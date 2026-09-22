@@ -1,7 +1,7 @@
 # NX1 Image Puller v0.6.0
 ## Community License
 
-Copyright © 2026 NX1 Image Puller Contributors
+Copyright © 2026 everingfern-lang
 
 Permission is granted to use the NX1 Image Puller v0.6.0 software, source code, scripts, documentation, and associated files (collectively, the "Software") subject to the terms below.
 
